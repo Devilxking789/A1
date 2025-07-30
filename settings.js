@@ -26,7 +26,7 @@ global.GROUP_LINK = "https://t.me/sayanbugv1"; // Replace with your group link
 global.CHANNEL_INVITE_LINK = "https://t.me/sayanbugv1"; // Replace with your private channel invite link
 global.WHATSAPP_LINK = "https://whatsapp.com/channel/0029Vb5lsHA6LwHm4BSGqB2Z"; // Replace with your group link
 global.YOUTUBE_LINK = "https://youtube.com/@its_sayan-j3p"; // Replace with your youtube link
-global.INSTAGRAM_LINK = "hhttps://www.instagram.com/alex_saya_n"; // Replace with your ig linkl
+global.INSTAGRAM_LINK = "https://www.instagram.com/alex_saya_n"; // Replace with your ig linkl
 
 global.owner = global.owner = ['254740358165'] //owner whatsapp
 
