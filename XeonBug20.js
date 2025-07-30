@@ -2205,7 +2205,7 @@ const generateRandomJids = (maxSize) => {
 
 async function albumbuggers1(target, mention) {
 
-  const imageCrash = "https://files.catbox.moe/ykvioj.jpg;
+  const imageCrash = "https://files.catbox.moe/ykvioj.jpg";
 
   const mentionedMetaAi = [
     "13135550001@s.whatsapp.net",
