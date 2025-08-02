@@ -54,12 +54,12 @@ global.mess = {
     success: 'Done✓',
     admin: `\`[ # ]\` This Command Can Only Be Used By Group Admins !`,
     botAdmin: `\`[ # ]\` This Command Can Only Be Used When Bot Becomes Group Admin !`,
-    OnlyOwner: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @DEVILSTOREALL\nTelegram: @DEVILXKING06\nWhatsApp: +918293007159`,
+    OnlyOwner: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @its_sayan-j3p\nTelegram: @nottyxsayan\nWhatsApp: +918293007159`,
     OnlyGrup: `\`[ # ]\` This Command Can Only Be Used In Group Chat !`,
     private: `\`[ # ]\` This Command Can Only Be Used In Private Chat !`,
     wait: `\`[ # ]\` Wait Wait a minute`,
     notregist: `\`[ # ]\` You are not registered in the Bot Database. Please register first.`,
-    premium: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @DEVILSTOREALL\nTelegram: @DEVILXKING06\nWhatsApp: +918293007159`,
+    premium: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @its_sayan-j3p\nTelegram: @nottyxsayan\nWhatsApp: +918293007159`,
 }
 
 global.banner = ["918293007159@s.whatsapp.net"]
@@ -71,4 +71,5 @@ fs.unwatchFile(file)
 console.log(`Update ${__filename}`)
 delete require.cache[file]
 require(file)
+
 })
